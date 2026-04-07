@@ -13,6 +13,9 @@
   <a href="#-getting-started">Como executar</a>
 </p>
 
+<br>
+
+<img src="./img/Mockup - TechStory.png" alt="Mockup TechStory" width="100%">
 ---
 
 ## 🏠 About the project
